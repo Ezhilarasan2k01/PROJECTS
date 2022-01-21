@@ -10,9 +10,9 @@ public class atm1 {
     static int accno2=8911;
     static int fass=1234; 
     static int mass=1234; 
-    static int arr2[]={0,0,0,0};//deposit
-    static int arr1[]={0,0,0,0};//rearrange withdraw
-    static int arr[]={0,0,0,0};//atm evlo notes
+    static int arr2[]={0,0,0,0};
+    static int arr1[]={0,0,0,0};
+    static int arr[]={0,0,0,0};
     static int balance=20000;
     static int balance1=0;
     static void with2(){
