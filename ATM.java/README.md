@@ -1,4 +1,4 @@
-#   Atm App
+#  Atm App
 Admin Username:EZHIL
 Admin Password:1234
 User UserName 1(A bank user):EZHIL
